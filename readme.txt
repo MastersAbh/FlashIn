@@ -1,4 +1,4 @@
-please follow these steps:
+An Online Platform for hoteliers and customers using Django framework.
 
 1. install python and then install django using pip install django
 2. open cmd
